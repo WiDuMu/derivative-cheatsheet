@@ -65,3 +65,7 @@
 | $\frac{d}{dx}\text{csch}^{-1}(x)$ | $\frac{1}{\|x\|\sqrt{1 + x^2}}$ |
 | $\frac{d}{dx}\text{sech}^{-1}(x)$ | $-\frac{1}{x\sqrt{1 - x^2}}$ |
 | $\frac{d}{dx}\text{coth}^{-1}(x)$ | $\frac{1}{1 - x^2}$ |
+
+
+## About
+Made by Me ([WiDuMu](github.com/WiDuMu))
