@@ -1,4 +1,4 @@
-# Derivatives Rules
+# Derivatives
 
 ## Rules
 | Rule | Function | Derivative |
