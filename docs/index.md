@@ -11,7 +11,7 @@
 | Quotient Rule | $\frac{d}{dx}\frac{f(x)}{g(x)}$ | $\frac{\frac{d}{dx}[f(x)]g(x) - f(x)\frac{d}{dx}[g(x)]}{g(x)^2}$ |
 | Reciprocal Rule | $\frac{d}{dx}\frac{1}{f(x)}$ | $-\frac{\frac{d}{dx}f(x)}{f(x)^2}$ |
 | Chain Rule | $\frac{d}{dx}[f(g(x))]$ | $f'(g(x)) \cdot g'(x)$ |
-| Chain Rule ($\frac{d}{dx}$) | $\frac{d}{dx}$ | $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}$ |
+| Chain Rule ( $\frac{d}{dx}$ ) | $\frac{d}{dx}$ | $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}$ |
 
 ## Basic functions
 | Function   | Derivative    | Notes |
