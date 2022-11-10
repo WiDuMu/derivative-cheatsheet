@@ -16,7 +16,7 @@ kramdown:
   html_to_native: false
   latex_headers: section,subsection,subsubsection,paragraph,subparagraph,subparagraph
   line_width: 72
-  math_engine: mathjax
+  math_engine: KaTeX
   parse_block_html: false
   parse_span_html: true
   remove_block_html_tags: true
