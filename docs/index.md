@@ -1,6 +1,7 @@
-# Derivatives
+# Derivative Cheatsheet
 
 ## Rules
+
 | Rule | Function | Derivative |
 | :---: | :---: | :---: |
 | Constant Multiplication | $\frac{d}{dx}cf$ | $c\frac{d}{dx}f(x)$ |
@@ -14,6 +15,7 @@
 | Chain Rule ( $\frac{d}{dx}$ ) | $\frac{d}{dx}$ | $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}$ |
 
 ## Basic functions
+
 | Function   | Derivative    | Notes |
 | :---: | :---: | :---: |
 | $\frac{d}{dx}c$ | $c$   | Constant |
@@ -26,6 +28,7 @@
 | $\frac{d}{dx}\log_{a}a$ | $\frac{1}{x\ln(a)}$ | Log |
 
 ## Trigonometric functions
+
 | Function | Derivative |
 | :---: | :---: |
 | $\frac{d}{dx}\sin(x)$ | $\cos(x)$ |
@@ -36,6 +39,7 @@
 | $\frac{d}{dx}\cot(x)$ | $-\csc^2(x)$ |
 
 ## Inverse Trigonometric functions
+
 | Function | Derivative |
 | :---: | :---: |
 | $\frac{d}{dx}\sin^{-1}(x)$ | $\frac{1}{\sqrt{1 - x^2}}$ |
@@ -46,6 +50,7 @@
 | $\frac{d}{dx}\cot^{-1}(x)$ | $-\frac{1}{1+x^2}$ |
 
 ## Hyperbolic functions
+
 | Function | Derivative |
 | :---: | :---: |
 | $\frac{d}{dx}\sinh(x)$ | $\cosh(x)$ |
@@ -68,4 +73,5 @@
 
 
 ## About
+
 Made by Me ([WiDuMu](github.com/WiDuMu))
