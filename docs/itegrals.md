@@ -18,6 +18,4 @@ where $\frac{d}{dx}F(x) = f(x)$,
 
 Or, the integral of a function on the interval $[a,b]$ is the same as the antiderivative of the function at $a$ minus the antiderivative at $b$
 
-<style>h2 {background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;}</style>
+<style>h2 {color: red;}</style>
